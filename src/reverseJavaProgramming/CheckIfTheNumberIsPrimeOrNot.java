@@ -3,15 +3,15 @@ package reverseJavaProgramming;
 public class CheckIfTheNumberIsPrimeOrNot {
 
 	public static void main(String[] args) {
-		/*
-		int num = 14;
+		
+		int num = 23;
 		int i=2;
 		while (i<=num) {
 			if (num%i==0) {
 				break;
 			}
 			else{
-			i++;
+				i++;
 			}
 		}
 		
@@ -21,9 +21,9 @@ public class CheckIfTheNumberIsPrimeOrNot {
 		else {
 			System.out.println("not a prime number");
 		}
-		*/
 		
 		
+		/*
 		//Another way using count
 		
 		int num = 13;
@@ -42,6 +42,6 @@ public class CheckIfTheNumberIsPrimeOrNot {
 		else
 		{
 			System.out.println("not a prime number");
-		}	
+		}  */	
 	}
 }
